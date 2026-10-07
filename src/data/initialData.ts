@@ -75,15 +75,7 @@ export const DEFAULT_USERS: User[] = [
     avatarSeed: 'alex-cyber',
   },
 ];
-  {
-    id: 'user_alex',
-    name: 'Alex Rivera',
-    email: 'alex.cs@college.edu',
-    studentYear: 'Year 2 Software Engineering',
-    registrationNumber: 'SE/2024/1105',
-    avatarSeed: 'alex-cyber',
-  },
-];
+ 
 
 // Helper to get formatted dates relative to today
 const getDateOffset = (offsetDays: number): string => {
