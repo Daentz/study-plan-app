@@ -1,0 +1,6 @@
+{
+  "name": "Study Plan - Anime Gamer Study Dashboard",
+  "description": "An anime-inspired gamer study dashboard and planner for Computer Science students with timetable, subject tracking, and progress metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
